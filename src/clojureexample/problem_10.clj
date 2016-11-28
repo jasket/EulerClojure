@@ -31,5 +31,4 @@
 
 (deftest prime-sum-test
    (is (= (prime-sum 10) 17))
-   (is (= (prime-sum 200000) 17))
-   )
+   (is (= (prime-sum 200) 17)))
